@@ -27,7 +27,9 @@ npm run start
 3. Open [http://localhost:8000/news](http://localhost:8000/news) with your browser to see the results of the scrape in your terminal. You can also used certain parameters to get news from individual sources.
 
 [http://localhost:8000/news/guardian](http://localhost:8000/news/guardian) 
-[http://localhost:8000/news/telegraph](http://localhost:8000/news/telegraph) 
+
+## Heroku
+[https://news-scrapper-live.herokuapp.com/news/telegraph](https://news-scrapper-live.herokuapp.com/news/telegraph) 
 
 
 
