@@ -2,6 +2,8 @@
 
 Welcome to the start of something interesting.
 
+[Live at RapidAPI](https://rapidapi.com/PabloDeLaCruz1/api/live-climate-change14) 
+
 We will start with a scrapper that goes through the news and only pulls climate related data. Many possibilities.  
 
 Live API and hosted on RapidAPI
